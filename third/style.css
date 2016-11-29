@@ -1,0 +1,45 @@
+.main-body {
+  width: 100vw;
+}
+
+.main-header {
+  display: flex;
+  background: rgb(216,216,216);
+  height: 14vh;
+  margin-bottom: 10px;
+}
+
+.menu {
+  background: rgb(74,144,226);
+  width: 75px;
+  height: 75px;
+  margin: 10px 0 0 15px;
+}
+
+.word {
+  font-size: 1.4rem;
+  padding: 50px 35px 50px 35px;
+  display: flex;
+  align-content: center;
+
+}
+
+.blue {
+  background: #4085DE;
+  height: 20vh;
+}
+
+.teal {
+  background: #46DFBA;
+  height: 20vh;
+}
+
+.lime {
+  background: #AFE57B;
+  height: 20vh;
+}
+
+.lemon {
+  background: #F7E31B;
+  height: 20vh;
+}

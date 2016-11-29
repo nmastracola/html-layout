@@ -1,0 +1,23 @@
+.main {
+  width: 100%;
+}
+
+.main-header {
+  background: rgb(66,66,66);
+  height: 160px;
+}
+
+.main-section {
+  border-left: 140px solid rgb(216,216,216);
+  border-right: 140px solid rgb(216,216,216);
+}
+
+.main-footer {
+  background: rgb(13,13,13);
+  height: 75px;
+}
+
+.main-body {
+  background: rgb(239,239,239);
+  height: 73vh;
+}
